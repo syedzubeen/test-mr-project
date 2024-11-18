@@ -8,4 +8,4 @@ else:
     print("Hello, World!")
 
 # Display a closing message
-print("Have a great day don bradnjknkjbvfdvffveveerdman!")
+print("Have a great day don jnjknjk!")
