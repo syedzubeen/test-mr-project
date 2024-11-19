@@ -13,4 +13,5 @@ class Calculator:
             raise ValueError("Cannot divide by zero")
         return a / b
     
-    a = input('how are you?')
+    a = input('What is your name?')
+    b = input('how are you?')
